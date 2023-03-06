@@ -1,6 +1,6 @@
 site_name: 'teste-kiali'
 site_description: 'Main documentation for Backstage features and platform APIs'
-repo_url: https://github.com/devxp-tech/teste-kiali
+repo_url: https://github.com/analect-io/teste-kiali
 edit_uri: edit/main/docs
 
 plugins:

@@ -6,5 +6,5 @@ on:
 
 jobs:
   chatgpt:
-    uses: devxp-tech/.github/.github/workflows/chatgpt.yaml@main
+    uses: analect-io/.github/.github/workflows/chatgpt.yaml@main
     secrets: inherit

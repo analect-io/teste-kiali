@@ -1,4 +1,4 @@
-module github.com/devxp-tech/teste-kiali
+module github.com/analect-io/teste-kiali
 
 go 1.18
 

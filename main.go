@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "github.com/devxp-tech/teste-kiali/config"
-	"github.com/devxp-tech/teste-kiali/controllers"
+	_ "github.com/analect-io/teste-kiali/config"
+	"github.com/analect-io/teste-kiali/controllers"
 	"github.com/gin-gonic/gin"
 )
 
